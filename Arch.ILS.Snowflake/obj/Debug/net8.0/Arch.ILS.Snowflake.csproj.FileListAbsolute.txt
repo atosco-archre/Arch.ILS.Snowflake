@@ -1,0 +1,16 @@
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\bin\Debug\net8.0\Arch.ILS.Snowflake.deps.json
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\bin\Debug\net8.0\Arch.ILS.Snowflake.dll
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\bin\Debug\net8.0\Arch.ILS.Snowflake.pdb
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\bin\Debug\net8.0\Studio.Core.dll
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\bin\Debug\net8.0\Studio.Core.pdb
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\bin\Debug\net8.0\Studio.Core.dll.config
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.csproj.AssemblyReference.cache
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.AssemblyInfoInputs.cache
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.AssemblyInfo.cs
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.csproj.CoreCompileInputs.cache
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.7F3F9655.Up2Date
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.dll
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\refint\Arch.ILS.Snowflake.dll
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\Arch.ILS.Snowflake.pdb
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Debug\net8.0\ref\Arch.ILS.Snowflake.dll
