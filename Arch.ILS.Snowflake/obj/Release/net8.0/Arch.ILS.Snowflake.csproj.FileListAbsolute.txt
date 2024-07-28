@@ -14,3 +14,4 @@ C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Release\n
 C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Release\net8.0\refint\Arch.ILS.Snowflake.dll
 C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Release\net8.0\Arch.ILS.Snowflake.pdb
 C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Release\net8.0\ref\Arch.ILS.Snowflake.dll
+C:\Users\atosco\source\repos\Arch.ILS.Snowflake\Arch.ILS.Snowflake\obj\Release\net8.0\Arch.ILS.Snowflake.sourcelink.json

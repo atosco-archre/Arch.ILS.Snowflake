@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zU5YAZnJ6Ow=",
+  "dgSpecHash": "zXnCfCLiNXg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\atosco\\Source\\Repos\\Arch.ILS.Snowflake\\Arch.ILS.Snowflake\\Arch.ILS.Snowflake.csproj",
+  "projectFilePath": "C:\\Users\\atosco\\source\\repos\\Arch.ILS.Snowflake\\Arch.ILS.Snowflake\\Arch.ILS.Snowflake.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\atosco\\.nuget\\packages\\apache.arrow\\14.0.2\\apache.arrow.14.0.2.nupkg.sha512",
     "C:\\Users\\atosco\\.nuget\\packages\\awssdk.core\\3.7.0.4\\awssdk.core.3.7.0.4.nupkg.sha512",
