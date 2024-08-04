@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arch.ILS.Snowflake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1114b7aae5472abe9c0c33d48f7b8b5b9ddaea9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ea2290d301620ab0b412289acca22a754aee0bc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arch.ILS.Snowflake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arch.ILS.Snowflake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
