@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/Arch.ILS.Snowflake/FileContentIndex
+/Arch.ILS.Snowflake/bin
+/Arch.ILS.Snowflake/obj/Debug/net9.0
+/Arch.ILS.Snowflake/obj/Release/net9.0
